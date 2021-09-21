@@ -1,4 +1,3 @@
-### Hi 👋 , I am Sunil Suryawanshi 
 
 <!--
 **07SRAJE/07SRAJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=07SRAJE&show_icons=true&theme=radical)
+<!-- ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=07SRAJE&show_icons=true&theme=chartreuse-dark) -->
