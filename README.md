@@ -1,5 +1,7 @@
 
-[![Sunil's GitHub Banner](./my.gif)](http://suryawanshi.tech){:target="_blank"}
+<!-- [![Sunil's GitHub Banner](./my.gif)](https://suryawanshi.tech){:target="_blank"}  -->
+
+<a href="https://suryawanshi.tech" target="_blank"> <img src="./my.gif"/>  </a>
 
  <h1 align="center">Hi 👋, I'm Sunil Suryawanshi</h1>
 <h3 align="center">A passionate web developer from India</h3>
