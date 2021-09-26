@@ -1,5 +1,5 @@
 
-[![Sunil's GitHub Banner](./my.gif)](http://suryawanshi.tech)
+[![Sunil's GitHub Banner](./my.gif)](http://suryawanshi.tech){:target="_blank" rel="noopener"}
 
  <h1 align="center">Hi 👋, I'm Sunil Suryawanshi</h1>
 <h3 align="center">A passionate web developer from India</h3>
