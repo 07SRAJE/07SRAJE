@@ -20,17 +20,17 @@
 <h1 align="center">Personal projects</h2>
 <h2>Portfolio Website : 
  <h4> <a href="https://github.com/sunilsuryawanshi939/My_Portfolio" target="_blank"> Github Repo </a> </h4>
- <h4> <a href="https://github.com/sunilsuryawanshi939/My_Portfolio" target="_blank"> Deployed here </a> </h4> <hr>
+ <h4> <a href="https://suryawanshi.tech" target="_blank"> Deployed here </a> </h4> <hr>
  <a href="https://suryawanshi.tech" target="_blank"> <img src="./portfolio_1200_300.JPG"/>  </a> </h2> <hr>
 
 <h2>Crypto App :
  <h4> <a href="https://github.com/sunilsuryawanshi939/CryptoApp" target="_blank"> Github Repo </a> </h4> <hr>
-  <h4> <a href="https://github.com/sunilsuryawanshi939/CryptoApp" target="_blank"> Deployed here  </a> </h4> <hr>
+  <h4> <a href="https://sunilcryptoapp.netlify.app" target="_blank"> Deployed here  </a> </h4> <hr>
  <a href="https://sunilcryptoapp.netlify.app" target="_blank"> <img src="./cryptoApp_1200_300.JPG"/>  </a> </h2>  <hr>
 
 <h2>Whatsapp Chat Explorer :
  <h4> <a href="https://github.com/sunilsuryawanshi939/WhatsappChatExplorer" target="_blank"> Github Repo </a> </h4>
- <h4> <a href="https://github.com/sunilsuryawanshi939/WhatsappChatExplorer" target="_blank"> Deployed here </a> </h4> <hr>
+ <h4> <a href="https://wca-sunil.herokuapp.com" target="_blank"> Deployed here </a> </h4> <hr>
  <a href="https://wca-sunil.herokuapp.com" target="_blank"> <img src="./wca_1200_300.jpg"/>  </a> </h2>  <hr>
  
  
