@@ -34,8 +34,13 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  -->
 </p>
 
- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilsuryawanshi939&label=Profile%20views&color=0e75b6&style=flat" alt="sunilsuryawanshi939" /> </p> -->
+<a href="https://github-readme-stats.vercel.app/api?username=sunilsuryawanshi939&show_icons=true&theme=tokyonight">
+   <img src='https://github-readme-stats.vercel.app/api?username=sunilsuryawanshi939&show_icons=true&theme=tokyonight'/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsuryawanshi939&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsuryawanshi939&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
+</a>
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsuryawanshi939&show_icons=true&theme=radical)
-<img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsuryawanshi939&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> <hr>
-<!-- ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=07SRAJE&show_icons=true&theme=chartreuse-dark) -->
+
+
+
