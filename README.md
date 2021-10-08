@@ -24,7 +24,7 @@
  <a href="https://suryawanshi.tech" target="_blank"> <img src="./portfolio_1200_300.JPG"/>  </a> </h2> <hr>
 
 <h2>Crypto App :
- <h4> <a href="https://github.com/sunilsuryawanshi939/CryptoApp" target="_blank"> Github Repo </a> </h4> <hr>
+ <h4> <a href="https://github.com/sunilsuryawanshi939/CryptoApp" target="_blank"> Github Repo </a> </h4> 
   <h4> <a href="https://sunilcryptoapp.netlify.app" target="_blank"> Deployed here  </a> </h4> <hr>
  <a href="https://sunilcryptoapp.netlify.app" target="_blank"> <img src="./cryptoApp_1200_300.JPG"/>  </a> </h2>  <hr>
 
